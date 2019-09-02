@@ -1,0 +1,41 @@
+
+li{
+    display: inline ;
+    max-width: 500px ;
+    max-height: 100px ;
+    margin-left: 10em ;
+    border: 3px red solid ;
+    background-color: aquamarine ;
+}
+
+img {
+    vertical-align: middle ;
+}
+
+.test {
+    width: 5em ;
+    margin-left: 110em ;
+}
+
+
+nav, ul{
+    display: inline;
+}
+
+h1 {
+    display: inline;
+    margin-left: 2em ;
+    
+}
+
+.m {
+    background-image: url(https://www.crankwargame.fr/Files/121801/Img/11/Donjon-Battlemat-effacable-pour-jeu-de-role-zoom.jpg) 
+}
+
+* {
+   -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+           box-sizing: border-box;
+    margin: 0 ;
+    padding: 0 ;
+}
